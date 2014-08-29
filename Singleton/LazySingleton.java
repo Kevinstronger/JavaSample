@@ -1,5 +1,5 @@
 package com.test.Singleton;
-//ÀÁººÊ½£¬³£ÓÃĞ´·¨
+//æ‡’æ±‰å¼ã€‚å¸¸ç”¨å†™æ³•
 public class LazySingleton {
 	private static LazySingleton lazySingleton = null;
 	private LazySingleton(){}
