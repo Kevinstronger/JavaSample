@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Baidu]">
+  <listeners>
+    <listener class-name="com.ifeng.basic.Log"/>
+    <listener class-name="com.ifeng.listener.TestResultListener"/>
+    <listener class-name="com.ifeng.listener.MyRetryListener"/>
+  </listeners>
+  <test name="search(failed)">
+    <classes>
+      <class name="com.ifeng.test.BaiduPageTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="getResult"/>
+          <include name="getWebDriver"/>
+        </methods>
+      </class> <!-- com.ifeng.test.BaiduPageTest -->
+    </classes>
+  </test> <!-- search(failed) -->
+</suite> <!-- Failed suite [Baidu] -->

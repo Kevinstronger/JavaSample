@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="DataDriver">
+    <!-- 
+    <listeners>
+      <listener class-name="com.ifeng.basic.Log" />
+      <listener class-name="com.ifeng.listener.TestResultListener" />
+      <listener class-name="com.ifeng.listener.MyRetryListener" />
+    </listeners>
+    -->
+   <test name="DataProvider" preserve-order="true" >
+          <classes>  
+          		<!--            
+                <class name="com.ifeng.test.BaiduDemo">
+                	<methods>
+  						<include name="search_1"/>
+  						<include name="search_2"/>
+  					</methods> 
+  				
+  				</class>
+  				
+  				<class name="com.ifeng.test.BaiduPageTest">
+  					<methods>
+  						<include name="getResult"/>
+  					</methods>
+  					
+                </class>
+                --> 
+                
+                 <class name="com.test.dataprovider.DataProviderTest">
+                	<methods>
+  						<include name="testmethod1"/>
+  						<include name="testmethod2"/>
+  						<include name="testmethod3"/>
+  					</methods> 
+  				
+  				</class>
+          </classes>
+   </test>
+</suite>

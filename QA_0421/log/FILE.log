@@ -1,0 +1,240 @@
+2014-04-25 13:36:53,447  INFO [main] TestResultListener:69 - search_1 Start
+ 2014-04-25 13:36:55,763  INFO [main] TestResultListener:63 - search_1 Success
+ 2014-04-25 13:36:55,765  INFO [main] TestResultListener:69 - search_2 Start
+ 2014-04-25 13:36:57,357  INFO [main] TestResultListener:46 - search_2 Failure
+ 2014-04-25 13:36:57,691  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_2这是第1次运行
+ 2014-04-25 13:36:57,692  INFO [main] TestResultListener:69 - search_2 Start
+ 2014-04-25 13:36:59,261  INFO [main] TestResultListener:46 - search_2 Failure
+ 2014-04-25 13:36:59,592  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_2这是第2次运行
+ 2014-04-25 13:36:59,594  INFO [main] TestResultListener:69 - search_2 Start
+ 2014-04-25 13:37:01,128  INFO [main] TestResultListener:46 - search_2 Failure
+ 2014-04-25 13:37:02,641  INFO [main] TestResultListener:81 - PassedTests = search_1
+ 2014-04-25 13:37:02,641  INFO [main] TestResultListener:102 - failedTest = search_2
+ 2014-04-25 13:37:02,641  INFO [main] TestResultListener:102 - failedTest = search_2
+ 2014-04-25 13:37:02,641  INFO [main] TestResultListener:102 - failedTest = search_2
+ 2014-04-25 13:37:02,641  INFO [main] TestResultListener:125 - Remove repeat Fail Test: search_2
+ 2014-04-25 13:37:02,641  INFO [main] TestResultListener:125 - Remove repeat Fail Test: search_2
+ 2014-04-25 13:43:53,829  INFO [main] TestResultListener:69 - search_1 Start
+ 2014-04-25 13:43:55,989  INFO [main] TestResultListener:63 - search_1 Success
+ 2014-04-25 13:43:55,990  INFO [main] TestResultListener:69 - search_2 Start
+ 2014-04-25 13:43:57,428  INFO [main] TestResultListener:46 - search_2 Failure
+ 2014-04-25 13:43:57,691  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_2这是第1次运行
+ 2014-04-25 13:43:57,693  INFO [main] TestResultListener:69 - search_2 Start
+ 2014-04-25 13:43:59,227  INFO [main] TestResultListener:46 - search_2 Failure
+ 2014-04-25 13:43:59,541  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_2这是第2次运行
+ 2014-04-25 13:43:59,542  INFO [main] TestResultListener:69 - search_2 Start
+ 2014-04-25 13:44:01,757  INFO [main] TestResultListener:46 - search_2 Failure
+ 2014-04-25 13:44:03,337  INFO [main] TestResultListener:81 - PassedTests = search_1
+ 2014-04-25 13:44:03,337  INFO [main] TestResultListener:102 - failedTest = search_2
+ 2014-04-25 13:44:03,337  INFO [main] TestResultListener:102 - failedTest = search_2
+ 2014-04-25 13:44:03,337  INFO [main] TestResultListener:102 - failedTest = search_2
+ 2014-04-25 13:44:03,337  INFO [main] TestResultListener:125 - Remove repeat Fail Test: search_2
+ 2014-04-25 13:44:03,337  INFO [main] TestResultListener:125 - Remove repeat Fail Test: search_2
+ 2014-04-25 13:46:04,040  INFO [main] TestResultListener:69 - search_1 Start
+ 2014-04-25 13:46:10,861  INFO [main] TestResultListener:63 - search_1 Success
+ 2014-04-25 13:46:10,863  INFO [main] TestResultListener:69 - search_2 Start
+ 2014-04-25 13:46:12,263  INFO [main] TestResultListener:46 - search_2 Failure
+ 2014-04-25 13:46:12,551  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_2这是第1次运行
+ 2014-04-25 13:46:12,552  INFO [main] TestResultListener:69 - search_2 Start
+ 2014-04-25 13:46:13,957  INFO [main] TestResultListener:46 - search_2 Failure
+ 2014-04-25 13:46:14,162  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_2这是第2次运行
+ 2014-04-25 13:46:14,164  INFO [main] TestResultListener:69 - search_2 Start
+ 2014-04-25 13:46:16,278  INFO [main] TestResultListener:46 - search_2 Failure
+ 2014-04-25 13:46:17,865  INFO [main] TestResultListener:81 - PassedTests = search_1
+ 2014-04-25 13:46:17,865  INFO [main] TestResultListener:102 - failedTest = search_2
+ 2014-04-25 13:46:17,865  INFO [main] TestResultListener:102 - failedTest = search_2
+ 2014-04-25 13:46:17,865  INFO [main] TestResultListener:102 - failedTest = search_2
+ 2014-04-25 13:46:17,865  INFO [main] TestResultListener:125 - Remove repeat Fail Test: search_2
+ 2014-04-25 13:46:17,865  INFO [main] TestResultListener:125 - Remove repeat Fail Test: search_2
+ 2014-04-25 13:55:41,410  INFO [main] TestResultListener:69 - search_1 Start
+ 2014-04-25 13:55:44,216  INFO [main] TestResultListener:46 - search_1 Failure
+ 2014-04-25 13:55:44,419  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_1这是第1次运行
+ 2014-04-25 13:55:44,421  INFO [main] TestResultListener:69 - search_1 Start
+ 2014-04-25 13:55:45,855  INFO [main] TestResultListener:63 - search_1 Success
+ 2014-04-25 13:55:45,857  INFO [main] TestResultListener:69 - search_2 Start
+ 2014-04-25 13:55:47,353  INFO [main] TestResultListener:46 - search_2 Failure
+ 2014-04-25 13:55:47,669  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_2这是第1次运行
+ 2014-04-25 13:55:47,670  INFO [main] TestResultListener:69 - search_2 Start
+ 2014-04-25 13:55:53,081  INFO [main] TestResultListener:46 - search_2 Failure
+ 2014-04-25 13:55:53,392  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_2这是第2次运行
+ 2014-04-25 13:55:53,394  INFO [main] TestResultListener:69 - search_2 Start
+ 2014-04-25 13:55:54,849  INFO [main] TestResultListener:46 - search_2 Failure
+ 2014-04-25 13:55:56,435  INFO [main] TestResultListener:81 - PassedTests = search_1
+ 2014-04-25 13:55:56,435  INFO [main] TestResultListener:102 - failedTest = search_2
+ 2014-04-25 13:55:56,435  INFO [main] TestResultListener:102 - failedTest = search_2
+ 2014-04-25 13:55:56,435  INFO [main] TestResultListener:102 - failedTest = search_1
+ 2014-04-25 13:55:56,435  INFO [main] TestResultListener:102 - failedTest = search_2
+ 2014-04-25 13:55:56,435  INFO [main] TestResultListener:125 - Remove repeat Fail Test: search_2
+ 2014-04-25 13:55:56,435  INFO [main] TestResultListener:125 - Remove repeat Fail Test: search_1
+ 2014-04-25 13:55:56,435  INFO [main] TestResultListener:125 - Remove repeat Fail Test: search_2
+ 2014-04-25 14:12:51,578  INFO [main] TestResultListener:69 - search_1 Start
+ 2014-04-25 14:12:56,181  INFO [main] TestResultListener:46 - search_1 Failure
+ 2014-04-25 14:12:56,374  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_1这是第1次运行
+ 2014-04-25 14:12:56,375  INFO [main] TestResultListener:69 - search_1 Start
+ 2014-04-25 14:12:57,818  INFO [main] TestResultListener:63 - search_1 Success
+ 2014-04-25 14:12:57,819  INFO [main] TestResultListener:69 - search_2 Start
+ 2014-04-25 14:12:59,319  INFO [main] TestResultListener:46 - search_2 Failure
+ 2014-04-25 14:12:59,619  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_2这是第1次运行
+ 2014-04-25 14:12:59,620  INFO [main] TestResultListener:69 - search_2 Start
+ 2014-04-25 14:13:01,070  INFO [main] TestResultListener:46 - search_2 Failure
+ 2014-04-25 14:13:01,370  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_2这是第2次运行
+ 2014-04-25 14:13:01,371  INFO [main] TestResultListener:69 - search_2 Start
+ 2014-04-25 14:13:02,901  INFO [main] TestResultListener:46 - search_2 Failure
+ 2014-04-25 14:13:04,399  INFO [main] TestResultListener:81 - PassedTests = search_1
+ 2014-04-25 14:13:04,399  INFO [main] TestResultListener:102 - failedTest = search_2
+ 2014-04-25 14:13:04,399  INFO [main] TestResultListener:102 - failedTest = search_2
+ 2014-04-25 14:13:04,399  INFO [main] TestResultListener:102 - failedTest = search_1
+ 2014-04-25 14:13:04,399  INFO [main] TestResultListener:102 - failedTest = search_2
+ 2014-04-25 14:13:04,399  INFO [main] TestResultListener:125 - Remove repeat Fail Test: search_2
+ 2014-04-25 14:13:04,399  INFO [main] TestResultListener:125 - Remove repeat Fail Test: search_1
+ 2014-04-25 14:13:04,399  INFO [main] TestResultListener:125 - Remove repeat Fail Test: search_2
+ 2014-04-25 14:13:34,752  INFO [main] TestResultListener:69 - search_1 Start
+ 2014-04-25 14:13:38,559  INFO [main] TestResultListener:63 - search_1 Success
+ 2014-04-25 14:13:38,561  INFO [main] TestResultListener:69 - search_2 Start
+ 2014-04-25 14:13:40,135  INFO [main] TestResultListener:46 - search_2 Failure
+ 2014-04-25 14:13:40,404  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_2这是第1次运行
+ 2014-04-25 14:13:40,406  INFO [main] TestResultListener:69 - search_2 Start
+ 2014-04-25 14:13:41,778  INFO [main] TestResultListener:46 - search_2 Failure
+ 2014-04-25 14:13:42,081  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_2这是第2次运行
+ 2014-04-25 14:13:42,082  INFO [main] TestResultListener:69 - search_2 Start
+ 2014-04-25 14:13:43,559  INFO [main] TestResultListener:46 - search_2 Failure
+ 2014-04-25 14:13:45,125  INFO [main] TestResultListener:81 - PassedTests = search_1
+ 2014-04-25 14:13:45,125  INFO [main] TestResultListener:102 - failedTest = search_2
+ 2014-04-25 14:13:45,125  INFO [main] TestResultListener:102 - failedTest = search_2
+ 2014-04-25 14:13:45,125  INFO [main] TestResultListener:102 - failedTest = search_2
+ 2014-04-25 14:13:45,125  INFO [main] TestResultListener:125 - Remove repeat Fail Test: search_2
+ 2014-04-25 14:13:45,125  INFO [main] TestResultListener:125 - Remove repeat Fail Test: search_2
+ 2014-04-25 16:43:18,345  INFO [main] TestResultListener:70 - search_1 Start
+ 2014-04-25 16:43:20,534  INFO [main] TestResultListener:64 - search_1 Success
+ 2014-04-25 16:43:20,535  INFO [main] TestResultListener:70 - search_2 Start
+ 2014-04-25 16:43:22,019  INFO [main] TestResultListener:47 - search_2 Failure
+ 2014-04-25 16:43:22,312  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_2这是第1次运行
+ 2014-04-25 16:43:22,314  INFO [main] TestResultListener:70 - search_2 Start
+ 2014-04-25 16:43:23,781  INFO [main] TestResultListener:47 - search_2 Failure
+ 2014-04-25 16:43:24,100  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_2这是第2次运行
+ 2014-04-25 16:43:24,102  INFO [main] TestResultListener:70 - search_2 Start
+ 2014-04-25 16:43:25,559  INFO [main] TestResultListener:47 - search_2 Failure
+ 2014-04-25 16:43:27,184  INFO [main] TestResultListener:82 - PassedTests = search_1
+ 2014-04-25 16:43:27,184  INFO [main] TestResultListener:103 - failedTest = search_2
+ 2014-04-25 16:43:27,184  INFO [main] TestResultListener:103 - failedTest = search_2
+ 2014-04-25 16:43:27,185  INFO [main] TestResultListener:103 - failedTest = search_2
+ 2014-04-25 16:43:27,185  INFO [main] TestResultListener:126 - Remove repeat Fail Test: search_2
+ 2014-04-25 16:43:27,185  INFO [main] TestResultListener:126 - Remove repeat Fail Test: search_2
+ 2014-04-28 10:25:01,248  INFO [main] TestResultListener:70 - search_1 Start
+ 2014-04-28 10:25:05,191  INFO [main] TestResultListener:64 - search_1 Success
+ 2014-04-28 10:25:05,193  INFO [main] TestResultListener:70 - search_2 Start
+ 2014-04-28 10:25:06,796  INFO [main] TestResultListener:47 - search_2 Failure
+ 2014-04-28 10:25:07,227  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_2这是第1次运行
+ 2014-04-28 10:25:07,229  INFO [main] TestResultListener:70 - search_2 Start
+ 2014-04-28 10:25:08,692  INFO [main] TestResultListener:47 - search_2 Failure
+ 2014-04-28 10:25:08,917  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_2这是第2次运行
+ 2014-04-28 10:25:08,918  INFO [main] TestResultListener:70 - search_2 Start
+ 2014-04-28 10:25:10,403  INFO [main] TestResultListener:47 - search_2 Failure
+ 2014-04-28 10:25:11,745  INFO [main] TestResultListener:82 - PassedTests = search_1
+ 2014-04-28 10:25:11,745  INFO [main] TestResultListener:103 - failedTest = search_2
+ 2014-04-28 10:25:11,745  INFO [main] TestResultListener:103 - failedTest = search_2
+ 2014-04-28 10:25:11,745  INFO [main] TestResultListener:103 - failedTest = search_2
+ 2014-04-28 10:25:11,745  INFO [main] TestResultListener:126 - Remove repeat Fail Test: search_2
+ 2014-04-28 10:25:11,746  INFO [main] TestResultListener:126 - Remove repeat Fail Test: search_2
+ 2014-04-28 10:30:26,849  INFO [main] TestResultListener:70 - search_1 Start
+ 2014-04-28 10:30:29,405  INFO [main] TestResultListener:64 - search_1 Success
+ 2014-04-28 10:30:29,407  INFO [main] TestResultListener:70 - search_2 Start
+ 2014-04-28 10:30:31,476  INFO [main] TestResultListener:47 - search_2 Failure
+ 2014-04-28 10:30:31,808  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_2这是第1次运行
+ 2014-04-28 10:30:31,810  INFO [main] TestResultListener:70 - search_2 Start
+ 2014-04-28 10:30:33,286  INFO [main] TestResultListener:47 - search_2 Failure
+ 2014-04-28 10:30:33,508  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_2这是第2次运行
+ 2014-04-28 10:30:33,509  INFO [main] TestResultListener:70 - search_2 Start
+ 2014-04-28 10:30:34,948  INFO [main] TestResultListener:47 - search_2 Failure
+ 2014-04-28 10:30:36,947  INFO [main] TestResultListener:82 - PassedTests = search_1
+ 2014-04-28 10:30:36,948  INFO [main] TestResultListener:103 - failedTest = search_2
+ 2014-04-28 10:30:36,948  INFO [main] TestResultListener:103 - failedTest = search_2
+ 2014-04-28 10:30:36,948  INFO [main] TestResultListener:103 - failedTest = search_2
+ 2014-04-28 10:30:36,949  INFO [main] TestResultListener:126 - Remove repeat Fail Test: search_2
+ 2014-04-28 10:30:36,949  INFO [main] TestResultListener:126 - Remove repeat Fail Test: search_2
+ 2014-04-28 10:36:08,448  INFO [main] TestResultListener:70 - search_1 Start
+ 2014-04-28 10:36:10,871  INFO [main] TestResultListener:64 - search_1 Success
+ 2014-04-28 10:36:10,873  INFO [main] TestResultListener:70 - search_2 Start
+ 2014-04-28 10:36:12,379  INFO [main] TestResultListener:47 - search_2 Failure
+ 2014-04-28 10:36:12,634  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_2这是第1次运行
+ 2014-04-28 10:36:12,637  INFO [main] TestResultListener:70 - search_2 Start
+ 2014-04-28 10:36:16,649  INFO [main] TestResultListener:47 - search_2 Failure
+ 2014-04-28 10:36:16,877  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_2这是第2次运行
+ 2014-04-28 10:36:16,879  INFO [main] TestResultListener:70 - search_2 Start
+ 2014-04-28 10:36:18,346  INFO [main] TestResultListener:47 - search_2 Failure
+ 2014-04-28 10:36:19,913  INFO [main] TestResultListener:82 - PassedTests = search_1
+ 2014-04-28 10:36:19,914  INFO [main] TestResultListener:103 - failedTest = search_2
+ 2014-04-28 10:36:19,914  INFO [main] TestResultListener:103 - failedTest = search_2
+ 2014-04-28 10:36:19,914  INFO [main] TestResultListener:103 - failedTest = search_2
+ 2014-04-28 10:36:19,914  INFO [main] TestResultListener:126 - Remove repeat Fail Test: search_2
+ 2014-04-28 10:36:19,914  INFO [main] TestResultListener:126 - Remove repeat Fail Test: search_2
+ 2014-04-28 10:37:47,385  INFO [main] TestResultListener:69 - search_1 Start
+ 2014-04-28 10:37:50,296  INFO [main] TestResultListener:63 - search_1 Success
+ 2014-04-28 10:37:50,297  INFO [main] TestResultListener:69 - search_2 Start
+ 2014-04-28 10:37:51,773  INFO [main] TestResultListener:46 - search_2 Failure
+ 2014-04-28 10:37:52,160  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_2这是第1次运行
+ 2014-04-28 10:37:52,161  INFO [main] TestResultListener:69 - search_2 Start
+ 2014-04-28 10:37:53,602  INFO [main] TestResultListener:46 - search_2 Failure
+ 2014-04-28 10:37:53,904  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_2这是第2次运行
+ 2014-04-28 10:37:53,905  INFO [main] TestResultListener:69 - search_2 Start
+ 2014-04-28 10:37:55,470  INFO [main] TestResultListener:46 - search_2 Failure
+ 2014-04-28 10:37:57,057  INFO [main] TestResultListener:81 - PassedTests = search_1
+ 2014-04-28 10:37:57,057  INFO [main] TestResultListener:102 - failedTest = search_2
+ 2014-04-28 10:37:57,057  INFO [main] TestResultListener:102 - failedTest = search_2
+ 2014-04-28 10:37:57,057  INFO [main] TestResultListener:102 - failedTest = search_2
+ 2014-04-28 10:37:57,057  INFO [main] TestResultListener:125 - Remove repeat Fail Test: search_2
+ 2014-04-28 10:37:57,057  INFO [main] TestResultListener:125 - Remove repeat Fail Test: search_2
+ 2014-04-28 10:38:50,737  INFO [main] TestResultListener:69 - search_1 Start
+ 2014-04-28 10:38:55,824  INFO [main] TestResultListener:63 - search_1 Success
+ 2014-04-28 10:38:55,827  INFO [main] TestResultListener:69 - search_2 Start
+ 2014-04-28 10:38:57,320  INFO [main] TestResultListener:46 - search_2 Failure
+ 2014-04-28 10:38:57,623  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_2这是第1次运行
+ 2014-04-28 10:38:57,625  INFO [main] TestResultListener:69 - search_2 Start
+ 2014-04-28 10:38:59,071  INFO [main] TestResultListener:46 - search_2 Failure
+ 2014-04-28 10:38:59,293  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：search_2这是第2次运行
+ 2014-04-28 10:38:59,295  INFO [main] TestResultListener:69 - search_2 Start
+ 2014-04-28 10:39:00,879  INFO [main] TestResultListener:46 - search_2 Failure
+ 2014-04-28 10:39:02,620  INFO [main] TestResultListener:81 - PassedTests = search_1
+ 2014-04-28 10:39:02,620  INFO [main] TestResultListener:102 - failedTest = search_2
+ 2014-04-28 10:39:02,620  INFO [main] TestResultListener:102 - failedTest = search_2
+ 2014-04-28 10:39:02,620  INFO [main] TestResultListener:102 - failedTest = search_2
+ 2014-04-28 10:39:02,621  INFO [main] TestResultListener:125 - Remove repeat Fail Test: search_2
+ 2014-04-28 10:39:02,621  INFO [main] TestResultListener:125 - Remove repeat Fail Test: search_2
+ 2014-04-29 18:02:22,913  INFO [main] TestResultListener:69 - getResult Start
+ 2014-04-29 18:02:33,070  INFO [main] TestResultListener:46 - getResult Failure
+ 2014-04-29 18:02:33,375  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：getResult这是第1次运行
+ 2014-04-29 18:02:33,376  INFO [main] TestResultListener:69 - getResult Start
+ 2014-04-29 18:02:43,391  INFO [main] TestResultListener:46 - getResult Failure
+ 2014-04-29 18:02:43,623  INFO [main] MyRetryAnalyzer:21 - 重新运行失败用例：getResult这是第2次运行
+ 2014-04-29 18:02:43,625  INFO [main] TestResultListener:69 - getResult Start
+ 2014-04-29 18:02:53,658  INFO [main] TestResultListener:46 - getResult Failure
+ 2014-04-29 18:02:55,259  INFO [main] TestResultListener:102 - failedTest = getResult
+ 2014-04-29 18:02:55,259  INFO [main] TestResultListener:102 - failedTest = getResult
+ 2014-04-29 18:02:55,259  INFO [main] TestResultListener:102 - failedTest = getResult
+ 2014-04-29 18:02:55,260  INFO [main] TestResultListener:125 - Remove repeat Fail Test: getResult
+ 2014-04-29 18:02:55,260  INFO [main] TestResultListener:125 - Remove repeat Fail Test: getResult
+ 2014-04-29 18:07:34,464  INFO [main] TestResultListener:69 - getResult Start
+ 2014-04-29 18:07:35,607  INFO [main] TestResultListener:63 - getResult Success
+ 2014-04-29 18:07:36,900  INFO [main] TestResultListener:81 - PassedTests = getResult
+ 2014-04-29 18:29:24,740  INFO [main] TestResultListener:69 - getResult Start
+ 2014-04-29 18:29:25,761  INFO [main] TestResultListener:63 - getResult Success
+ 2014-04-29 18:29:26,987  INFO [main] TestResultListener:81 - PassedTests = getResult
+ 2014-08-15 17:39:03,899  INFO [main] TestResultListener:69 - testmethod1 Start
+ 2014-08-15 17:39:03,915  INFO [main] TestResultListener:63 - testmethod1 Success
+ 2014-08-15 17:39:03,921  INFO [main] TestResultListener:69 - testmethod2 Start
+ 2014-08-15 17:39:03,923  INFO [main] TestResultListener:63 - testmethod2 Success
+ 2014-08-15 17:39:03,928  INFO [main] TestResultListener:69 - testmethod3 Start
+ 2014-08-15 17:39:03,930  INFO [main] TestResultListener:63 - testmethod3 Success
+ 2014-08-15 17:39:04,017  INFO [main] TestResultListener:81 - PassedTests = testmethod1
+ 2014-08-15 17:39:04,017  INFO [main] TestResultListener:81 - PassedTests = testmethod2
+ 2014-08-15 17:39:04,018  INFO [main] TestResultListener:81 - PassedTests = testmethod3
+ 2014-08-15 17:41:48,372  INFO [main] TestResultListener:69 - testmethod1 Start
+ 2014-08-15 17:41:48,389  INFO [main] TestResultListener:63 - testmethod1 Success
+ 2014-08-15 17:41:48,405  INFO [main] TestResultListener:69 - testmethod2 Start
+ 2014-08-15 17:41:48,413  INFO [main] TestResultListener:63 - testmethod2 Success
+ 2014-08-15 17:41:48,418  INFO [main] TestResultListener:69 - testmethod3 Start
+ 2014-08-15 17:41:48,423  INFO [main] TestResultListener:63 - testmethod3 Success
+ 2014-08-15 17:41:48,489  INFO [main] TestResultListener:81 - PassedTests = testmethod2
+ 2014-08-15 17:41:48,490  INFO [main] TestResultListener:81 - PassedTests = testmethod1
+ 2014-08-15 17:41:48,490  INFO [main] TestResultListener:81 - PassedTests = testmethod3
+ 
