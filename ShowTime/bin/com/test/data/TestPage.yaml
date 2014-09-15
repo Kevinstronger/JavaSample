@@ -1,0 +1,82 @@
+#-------------------------------------------
+#
+#页面配置文件示例
+#
+#-------------------------------------------
+
+输入框:
+  des: 这是一个测试输入框
+  id: user
+  
+DropDownList:
+  des: 下拉选择框
+  name: select
+  
+延迟加载按钮:
+  des: 点击后会等待5秒钟显示提示消息
+  className: wait
+
+警告按钮:
+  des: 点击后有警告框弹出
+  xpath: "//input[@value='Alert']"
+  
+页面链接:
+  des:所有<a>元素
+  css: div#open > a
+
+文字链接:
+  des:点击文字链接后页面会跳转
+  className: baidu
+
+搜凤输入框:
+  des: 输入框
+  id: s_input
+
+搜索按钮:
+  des: 搜索按钮
+  id: s_button_top
+  
+openNewWindow:
+  des:打开一个新窗口
+  xpath: "//a[@class='open']"
+  
+搜索框:
+  des: 搜索框
+  name: wd
+
+frameSecond:
+  des:包含Click me按钮的窗口
+  name: second
+
+提示按钮:
+  des: 点击后会有弹出消息
+  id: button1
+  
+主页面搜索框:
+  des: 主页面搜索框
+  id: query
+  
+#凤凰博客
+博客用户名:
+  des: 凤凰博客登录用户名
+  id: username
+
+博客密码:
+  des: 凤凰博客登录密码
+  id: password
+  
+登录按钮:
+  des: 凤凰博客登录按钮
+  xpath: "//input[@value='登录']"
+  
+发表博文:
+  des: 发表博文
+  xpath: "//a[contains(.,'发表博文')]"
+  
+博客正文框架:
+  des: 博客正文所在的iframe
+  id: baidu_editor_0
+  
+正文内容框:
+  des: 博客正文区
+  xpath: "//html/body/p"

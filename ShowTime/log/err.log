@@ -1,0 +1,9 @@
+2014-09-15 15:41:56 [com.ifeng.catcher.browser.Browser:main:24124]-[ERROR] 获取元素[登录按钮]失败
+2014-09-15 17:50:17 [com.ifeng.catcher.testng.TestResultListener:main:3491]-[ERROR]  driver takeScreenshot Failure: null
+2014-09-15 17:50:33 [com.ifeng.catcher.testng.TestResultListener:main:18566]-[ERROR]  driver takeScreenshot Failure: null
+2014-09-15 17:50:48 [com.ifeng.catcher.testng.TestResultListener:main:33640]-[ERROR]  driver takeScreenshot Failure: null
+2014-09-15 17:50:49 [com.ifeng.catcher.testng.TestngRetry:main:35503]-[ERROR] [com.test.catcher.Demo1]中的用例alertBtn运行3次后仍然失败，跳过该用例
+2014-09-15 18:02:29 [com.ifeng.catcher.testng.TestResultListener:main:16141]-[ERROR]  driver takeScreenshot Failure: null
+2014-09-15 18:02:44 [com.ifeng.catcher.testng.TestResultListener:main:30458]-[ERROR]  driver takeScreenshot Failure: null
+2014-09-15 18:02:59 [com.ifeng.catcher.testng.TestResultListener:main:45279]-[ERROR]  driver takeScreenshot Failure: null
+2014-09-15 18:03:00 [com.ifeng.catcher.testng.TestngRetry:main:47159]-[ERROR] [com.test.catcher.Demo1]中的用例alertBtn运行3次后仍然失败，跳过该用例

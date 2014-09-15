@@ -1,0 +1,2 @@
+#主页搜索框
+key=From txt file!

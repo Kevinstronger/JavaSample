@@ -1,0 +1,116 @@
+2014-09-12 18:07:18 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载Yaml文件C:\Workspaces\MyEclipse 10\ShowTime\.\src\com\test\data\testPage.yaml完成!
+2014-09-12 18:07:18 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- alertBtn Start
+2014-09-12 18:07:18 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载页面[ file:///D:/demo.html ]
+2014-09-12 18:07:21 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- alertBtn Failure
+2014-09-12 18:07:21 [com.ifeng.catcher.testng.TestResultListener]-[ERROR] --  driver takeScreenshot Failure: org.openqa.selenium.htmlunit.HtmlUnitDriver cannot be cast to org.openqa.selenium.TakesScreenshot
+2014-09-12 18:07:22 [com.ifeng.catcher.browser.Browser]-[INFO] -- 浏览器关闭!
+2014-09-12 18:07:22 [com.ifeng.catcher.testng.TestngRetry]-[INFO] -- 重新运行失败用例： [com.test.catcher.Demo1]中的用例alertBtn,这是第1次运行
+2014-09-12 18:07:31 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载Yaml文件C:\Workspaces\MyEclipse 10\ShowTime\.\src\com\test\data\testPage.yaml完成!
+2014-09-12 18:07:31 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- alertBtn Start
+2014-09-12 18:07:31 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载页面[ file:///D:/demo.html ]
+2014-09-12 18:07:34 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- alertBtn Failure
+2014-09-12 18:07:34 [com.ifeng.catcher.testng.TestResultListener]-[ERROR] --  driver takeScreenshot Failure: org.openqa.selenium.htmlunit.HtmlUnitDriver cannot be cast to org.openqa.selenium.TakesScreenshot
+2014-09-12 18:07:35 [com.ifeng.catcher.browser.Browser]-[INFO] -- 浏览器关闭!
+2014-09-12 18:07:36 [com.ifeng.catcher.testng.TestngRetry]-[INFO] -- 重新运行失败用例： [com.test.catcher.Demo1]中的用例alertBtn,这是第2次运行
+2014-09-12 18:07:44 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载Yaml文件C:\Workspaces\MyEclipse 10\ShowTime\.\src\com\test\data\testPage.yaml完成!
+2014-09-12 18:07:44 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- alertBtn Start
+2014-09-12 18:07:44 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载页面[ file:///D:/demo.html ]
+2014-09-12 18:07:47 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- alertBtn Failure
+2014-09-12 18:07:47 [com.ifeng.catcher.testng.TestResultListener]-[ERROR] --  driver takeScreenshot Failure: org.openqa.selenium.htmlunit.HtmlUnitDriver cannot be cast to org.openqa.selenium.TakesScreenshot
+2014-09-12 18:07:48 [com.ifeng.catcher.browser.Browser]-[INFO] -- 浏览器关闭!
+2014-09-12 18:07:49 [com.ifeng.catcher.testng.TestngRetry]-[ERROR] -- [com.test.catcher.Demo1]中的用例alertBtn运行3次后仍然失败，跳过该用例
+2014-09-12 18:07:57 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载Yaml文件C:\Workspaces\MyEclipse 10\ShowTime\.\src\com\test\data\testPage.yaml完成!
+2014-09-12 18:07:57 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- multiFrame Start
+2014-09-12 18:07:57 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载页面[ file:///D:/frame_sample/demo.html ]
+2014-09-12 18:08:00 [com.ifeng.catcher.browser.Browser]-[INFO] -- 点击警告框的确定按钮
+2014-09-12 18:08:00 [com.ifeng.catcher.browser.Browser]-[INFO] -- 成功切换回主窗口
+2014-09-12 18:08:04 [com.ifeng.catcher.browser.Browser]-[INFO] -- 输入[ from txt file! ]
+2014-09-12 18:08:06 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- multiFrame Start
+2014-09-12 18:08:07 [com.ifeng.catcher.browser.Browser]-[INFO] -- 浏览器关闭!
+2014-09-12 18:08:08 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- PassedTests = multiFrame
+2014-09-12 18:19:22 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载Yaml文件C:\Workspaces\MyEclipse 10\ShowTime\.\src\com\test\data\testPage.yaml完成!
+2014-09-12 18:19:22 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载页面[ file:///D:/demo.html ]
+2014-09-12 18:19:25 [com.ifeng.catcher.browser.Browser]-[INFO] -- 浏览器关闭!
+2014-09-12 18:21:20 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载Yaml文件C:\Workspaces\MyEclipse 10\ShowTime\.\src\com\test\data\testPage.yaml完成!
+2014-09-12 18:21:20 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载页面[ file:///D:/demo.html ]
+2014-09-12 18:21:23 [com.ifeng.catcher.browser.Browser]-[INFO] -- 浏览器关闭!
+2014-09-12 18:25:59 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载Yaml文件C:\Workspaces\MyEclipse 10\ShowTime\.\src\com\test\data\testPage.yaml完成!
+2014-09-12 18:25:59 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载页面[ file:///D:/demo.html ]
+2014-09-12 18:26:03 [com.ifeng.catcher.browser.Browser]-[INFO] -- 浏览器关闭!
+2014-09-12 18:26:13 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载Yaml文件C:\Workspaces\MyEclipse 10\ShowTime\.\src\com\test\data\testPage.yaml完成!
+2014-09-12 18:26:13 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载页面[ file:///D:/demo.html ]
+2014-09-12 18:26:16 [com.ifeng.catcher.browser.Browser]-[INFO] -- 浏览器关闭!
+2014-09-15 15:41:35 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载Yaml文件C:\Workspaces\MyEclipse 10\ShowTime\.\src\com\test\data\testPage.yaml完成!
+2014-09-15 15:41:41 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载页面[ http://blog.ifeng.com ]
+2014-09-15 15:41:46 [com.ifeng.catcher.browser.Browser]-[INFO] -- 输入[ itest20 ]
+2014-09-15 15:41:48 [com.ifeng.catcher.browser.Browser]-[INFO] -- 输入[ 123456 ]
+2014-09-15 15:41:56 [com.ifeng.catcher.browser.Browser]-[ERROR] -- 获取元素[登录按钮]失败
+2014-09-15 15:42:05 [com.ifeng.catcher.browser.Browser]-[INFO] -- 浏览器关闭!
+2014-09-15 15:44:20 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载Yaml文件C:\Workspaces\MyEclipse 10\ShowTime\.\src\com\test\data\testPage.yaml完成!
+2014-09-15 15:44:25 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载页面[ http://blog.ifeng.com ]
+2014-09-15 15:44:30 [com.ifeng.catcher.browser.Browser]-[INFO] -- 输入[ itest20 ]
+2014-09-15 15:44:32 [com.ifeng.catcher.browser.Browser]-[INFO] -- 输入[ 123456 ]
+2014-09-15 15:44:40 [com.ifeng.catcher.browser.Browser]-[INFO] -- 点击[[[FirefoxDriver: firefox on XP (98d4fafc-d8ad-42f4-a188-55a7881275ce)] -> xpath: //a[contains(.,'发表博文')]]]
+2014-09-15 15:44:42 [com.ifeng.catcher.browser.Browser]-[INFO] -- 切换到最新窗口
+2014-09-15 15:44:47 [com.ifeng.catcher.browser.Browser]-[INFO] -- 成功切换回主窗口
+2014-09-15 15:44:54 [com.ifeng.catcher.browser.Browser]-[INFO] -- 浏览器关闭!
+2014-09-15 17:50:14 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载Yaml文件C:\Workspaces\MyEclipse 10\ShowTime\.\src\com\test\data\testPage.yaml完成!
+2014-09-15 17:50:14 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- alertBtn Start
+2014-09-15 17:50:14 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载页面[ file:///D:/demo.html ]
+2014-09-15 17:50:17 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- alertBtn Failure
+2014-09-15 17:50:17 [com.ifeng.catcher.testng.TestResultListener]-[ERROR] --  driver takeScreenshot Failure: null
+2014-09-15 17:50:19 [com.ifeng.catcher.browser.Browser]-[INFO] -- 浏览器关闭!
+2014-09-15 17:50:20 [com.ifeng.catcher.testng.TestngRetry]-[INFO] -- 重新运行失败用例： [com.test.catcher.Demo1]中的用例alertBtn,这是第1次运行
+2014-09-15 17:50:29 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载Yaml文件C:\Workspaces\MyEclipse 10\ShowTime\.\src\com\test\data\testPage.yaml完成!
+2014-09-15 17:50:29 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- alertBtn Start
+2014-09-15 17:50:29 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载页面[ file:///D:/demo.html ]
+2014-09-15 17:50:33 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- alertBtn Failure
+2014-09-15 17:50:33 [com.ifeng.catcher.testng.TestResultListener]-[ERROR] --  driver takeScreenshot Failure: null
+2014-09-15 17:50:34 [com.ifeng.catcher.browser.Browser]-[INFO] -- 浏览器关闭!
+2014-09-15 17:50:34 [com.ifeng.catcher.testng.TestngRetry]-[INFO] -- 重新运行失败用例： [com.test.catcher.Demo1]中的用例alertBtn,这是第2次运行
+2014-09-15 17:50:44 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载Yaml文件C:\Workspaces\MyEclipse 10\ShowTime\.\src\com\test\data\testPage.yaml完成!
+2014-09-15 17:50:44 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- alertBtn Start
+2014-09-15 17:50:44 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载页面[ file:///D:/demo.html ]
+2014-09-15 17:50:48 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- alertBtn Failure
+2014-09-15 17:50:48 [com.ifeng.catcher.testng.TestResultListener]-[ERROR] --  driver takeScreenshot Failure: null
+2014-09-15 17:50:49 [com.ifeng.catcher.browser.Browser]-[INFO] -- 浏览器关闭!
+2014-09-15 17:50:49 [com.ifeng.catcher.testng.TestngRetry]-[ERROR] -- [com.test.catcher.Demo1]中的用例alertBtn运行3次后仍然失败，跳过该用例
+2014-09-15 17:51:00 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载Yaml文件C:\Workspaces\MyEclipse 10\ShowTime\.\src\com\test\data\testPage.yaml完成!
+2014-09-15 17:51:00 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- multiFrame Start
+2014-09-15 17:51:00 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载页面[ file:///D:/frame_sample/demo.html ]
+2014-09-15 17:51:03 [com.ifeng.catcher.browser.Browser]-[INFO] -- 点击警告框的确定按钮
+2014-09-15 17:51:03 [com.ifeng.catcher.browser.Browser]-[INFO] -- 成功切换回主窗口
+2014-09-15 17:51:07 [com.ifeng.catcher.browser.Browser]-[INFO] -- 输入[ from txt file! ]
+2014-09-15 17:51:09 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- multiFrame Start
+2014-09-15 17:51:11 [com.ifeng.catcher.browser.Browser]-[INFO] -- 浏览器关闭!
+2014-09-15 17:51:11 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- PassedTests = multiFrame
+2014-09-15 18:02:26 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载Yaml文件C:\Workspaces\MyEclipse 10\ShowTime\.\src\com\test\data\testPage.yaml完成!
+2014-09-15 18:02:26 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- alertBtn Start
+2014-09-15 18:02:26 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载页面[ file:///D:/demo.html ]
+2014-09-15 18:02:29 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- alertBtn Failure
+2014-09-15 18:02:29 [com.ifeng.catcher.testng.TestResultListener]-[ERROR] --  driver takeScreenshot Failure: null
+2014-09-15 18:02:30 [com.ifeng.catcher.browser.Browser]-[INFO] -- 浏览器关闭!
+2014-09-15 18:02:31 [com.ifeng.catcher.testng.TestngRetry]-[INFO] -- 重新运行失败用例： [com.test.catcher.Demo1]中的用例alertBtn,这是第1次运行
+2014-09-15 18:02:40 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载Yaml文件C:\Workspaces\MyEclipse 10\ShowTime\.\src\com\test\data\testPage.yaml完成!
+2014-09-15 18:02:40 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- alertBtn Start
+2014-09-15 18:02:40 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载页面[ file:///D:/demo.html ]
+2014-09-15 18:02:44 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- alertBtn Failure
+2014-09-15 18:02:44 [com.ifeng.catcher.testng.TestResultListener]-[ERROR] --  driver takeScreenshot Failure: null
+2014-09-15 18:02:45 [com.ifeng.catcher.browser.Browser]-[INFO] -- 浏览器关闭!
+2014-09-15 18:02:45 [com.ifeng.catcher.testng.TestngRetry]-[INFO] -- 重新运行失败用例： [com.test.catcher.Demo1]中的用例alertBtn,这是第2次运行
+2014-09-15 18:02:55 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载Yaml文件C:\Workspaces\MyEclipse 10\ShowTime\.\src\com\test\data\testPage.yaml完成!
+2014-09-15 18:02:55 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- alertBtn Start
+2014-09-15 18:02:55 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载页面[ file:///D:/demo.html ]
+2014-09-15 18:02:59 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- alertBtn Failure
+2014-09-15 18:02:59 [com.ifeng.catcher.testng.TestResultListener]-[ERROR] --  driver takeScreenshot Failure: null
+2014-09-15 18:03:00 [com.ifeng.catcher.browser.Browser]-[INFO] -- 浏览器关闭!
+2014-09-15 18:03:00 [com.ifeng.catcher.testng.TestngRetry]-[ERROR] -- [com.test.catcher.Demo1]中的用例alertBtn运行3次后仍然失败，跳过该用例
+2014-09-15 18:03:10 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载Yaml文件C:\Workspaces\MyEclipse 10\ShowTime\.\src\com\test\data\testPage.yaml完成!
+2014-09-15 18:03:10 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- multiFrame Start
+2014-09-15 18:03:10 [com.ifeng.catcher.browser.Browser]-[INFO] -- 加载页面[ file:///D:/frame_sample/demo.html ]
+2014-09-15 18:03:13 [com.ifeng.catcher.browser.Browser]-[INFO] -- 点击警告框的确定按钮
+2014-09-15 18:03:13 [com.ifeng.catcher.browser.Browser]-[INFO] -- 成功切换回主窗口
+2014-09-15 18:03:17 [com.ifeng.catcher.browser.Browser]-[INFO] -- 输入[ from txt file! ]
+2014-09-15 18:03:19 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- multiFrame Start
+2014-09-15 18:03:20 [com.ifeng.catcher.browser.Browser]-[INFO] -- 浏览器关闭!
+2014-09-15 18:03:21 [com.ifeng.catcher.testng.TestResultListener]-[INFO] -- PassedTests = multiFrame

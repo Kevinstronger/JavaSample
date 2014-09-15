@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="CatcherFrameWork">
+   
+    <listeners>   
+      <listener class-name="com.ifeng.catcher.testng.RetryListener" />
+      <listener class-name="com.ifeng.catcher.testng.TestResultListener" />
+    </listeners>
+  
+    
+   <test name="CatcherDemo">
+          <classes>           		
+                 <class name="com.test.catcher.Demo1">
+                	<methods>
+  						<include name="alertBtn"/>
+  						<include name="multiFrame"/>
+  					</methods> 
+  				
+  				</class>
+          </classes>
+   </test>
+</suite>

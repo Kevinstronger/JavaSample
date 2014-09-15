@@ -1,0 +1,4 @@
+2014-09-12 18:07:21 [com.ifeng.catcher.testng.TestResultListener:main:12907]-[ERROR]  driver takeScreenshot Failure: org.openqa.selenium.htmlunit.HtmlUnitDriver cannot be cast to org.openqa.selenium.TakesScreenshot
+2014-09-12 18:07:34 [com.ifeng.catcher.testng.TestResultListener:main:26263]-[ERROR]  driver takeScreenshot Failure: org.openqa.selenium.htmlunit.HtmlUnitDriver cannot be cast to org.openqa.selenium.TakesScreenshot
+2014-09-12 18:07:47 [com.ifeng.catcher.testng.TestResultListener:main:39022]-[ERROR]  driver takeScreenshot Failure: org.openqa.selenium.htmlunit.HtmlUnitDriver cannot be cast to org.openqa.selenium.TakesScreenshot
+2014-09-12 18:07:49 [com.ifeng.catcher.testng.TestngRetry:main:40538]-[ERROR] [com.test.catcher.Demo1]中的用例alertBtn运行3次后仍然失败，跳过该用例
